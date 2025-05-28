@@ -27,5 +27,5 @@ share/python-wheels/
 *.egg
 MANIFEST
 .idea
-.*json
+*json
 data
